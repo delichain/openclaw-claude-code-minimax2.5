@@ -12,7 +12,7 @@ OUTPUT_FILE="/tmp/claude-code-output.txt"
 TASK_OUTPUT="${RESULT_DIR}/task-output.txt"
 
 # MiniMax API 配置
-MINIMAX_API_KEY="sk-cp-uqXuOQHRIsjOsfIprWeaKpTX7P1tY76GTEMyBhW78B1shK2ASqk6MWCUmyw1BHcwQVVLhroYJgK01hheXgWutPK4QNk1Fvb63LURERLAmh52S_xPJ7-yX-E"
+MINIMAX_API_KEY="your minimax api key"
 
 # Defaults
 PROMPT=""
