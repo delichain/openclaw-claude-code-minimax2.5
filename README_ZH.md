@@ -1,5 +1,7 @@
 # OpenClaw Claude Code Runner (MiniMax API)
 
+> ⚠️ **安全声明**：本仓库禁止包含任何 API Key、Token 或个人信息。上传前请确保已移除敏感信息。
+
 通过 MiniMax API 调用 Claude Code 执行任务，支持回调通知。
 
 ## 功能特性

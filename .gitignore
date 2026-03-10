@@ -1,0 +1,7 @@
+# Security - Do NOT commit sensitive files
+.env
+.env.local
+*.key
+*.pem
+config.local.json
+secrets/
